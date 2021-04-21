@@ -8,7 +8,7 @@ import {
 } from 'use-cannon';
 import { ZapparCamera, ImageTracker, ZapparCanvas } from '@zappar/zappar-react-three-fiber';
 
-import { HTML } from 'drei';
+import { Html } from '@react-three/drei';
 import targetFile from './assets/example-tracking-image.zpt';
 
 const niceColors = require('nice-color-palettes');
@@ -94,7 +94,7 @@ function App() {
     const [visibleState, setVisibleState] = useState<boolean>(false);
 
     return (
-      <Suspense fallback={<HTML>Loading...</HTML>}>
+      <Suspense fallback={<Html>Loading...</Html>}>
         <ZapparCanvas shadowMap>
 
           <ZapparCamera />
