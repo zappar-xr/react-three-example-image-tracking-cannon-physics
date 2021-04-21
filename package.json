@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@react-three/cannon": "^1.1.0",
     "@react-three/drei": "^4.1.8",
     "@react-three/fiber": "^6.0.16",
     "@testing-library/jest-dom": "^5.11.10",
@@ -21,7 +22,6 @@
     "react-scripts": "^4.0.3",
     "three": "^0.127.0",
     "typescript": "^4.2.3",
-    "use-cannon": "^0.5.3",
     "web-vitals": "^1.1.1"
   },
   "scripts": {

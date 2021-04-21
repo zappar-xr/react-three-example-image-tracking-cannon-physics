@@ -5,7 +5,7 @@ import React, { useState, useMemo, Suspense } from 'react';
 import { useFrame } from '@react-three/fiber';
 import {
  Physics, usePlane, useBox, useSphere,
-} from 'use-cannon';
+} from '@react-three/cannon';
 import { ZapparCamera, ImageTracker, ZapparCanvas } from '@zappar/zappar-react-three-fiber';
 
 import { Html } from '@react-three/drei';
