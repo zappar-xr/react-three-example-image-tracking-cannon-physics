@@ -2,7 +2,7 @@
 
 import * as THREE from 'three';
 import React, { useState, useMemo, Suspense } from 'react';
-import { useFrame } from 'react-three-fiber';
+import { useFrame } from '@react-three/fiber';
 import {
  Physics, usePlane, useBox, useSphere,
 } from 'use-cannon';
