@@ -95,7 +95,7 @@ function App() {
 
     return (
       <Suspense fallback={<Html>Loading...</Html>}>
-        <ZapparCanvas shadowMap>
+        <ZapparCanvas shadows>
 
           <ZapparCamera />
           <ImageTracker
