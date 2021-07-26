@@ -5,8 +5,8 @@
     "main.js.map": "/react-three-example-image-tracking-cannon-physics/static/js/main.5509d31d.chunk.js.map",
     "runtime-main.js": "/react-three-example-image-tracking-cannon-physics/static/js/runtime-main.47e67f65.js",
     "runtime-main.js.map": "/react-three-example-image-tracking-cannon-physics/static/js/runtime-main.47e67f65.js.map",
-    "static/js/2.82bd93b6.chunk.js": "/react-three-example-image-tracking-cannon-physics/static/js/2.82bd93b6.chunk.js",
-    "static/js/2.82bd93b6.chunk.js.map": "/react-three-example-image-tracking-cannon-physics/static/js/2.82bd93b6.chunk.js.map",
+    "static/js/2.1ae175e7.chunk.js": "/react-three-example-image-tracking-cannon-physics/static/js/2.1ae175e7.chunk.js",
+    "static/js/2.1ae175e7.chunk.js.map": "/react-three-example-image-tracking-cannon-physics/static/js/2.1ae175e7.chunk.js.map",
     "static/js/3.460e03a0.chunk.js": "/react-three-example-image-tracking-cannon-physics/static/js/3.460e03a0.chunk.js",
     "static/js/3.460e03a0.chunk.js.map": "/react-three-example-image-tracking-cannon-physics/static/js/3.460e03a0.chunk.js.map",
     "face_tracking_model.zbin": "/react-three-example-image-tracking-cannon-physics/482727c0e7dd40d73f5aae47f238ad61.zbin",
@@ -14,15 +14,15 @@
     "face_mesh_full_head_simplified_model.zbin": "/react-three-example-image-tracking-cannon-physics/f7b62a3a53b5c9b3222ba8dc53cb8b11.zbin",
     "index.html": "/react-three-example-image-tracking-cannon-physics/index.html",
     "static/css/main.16285d4f.chunk.css.map": "/react-three-example-image-tracking-cannon-physics/static/css/main.16285d4f.chunk.css.map",
-    "static/js/2.82bd93b6.chunk.js.LICENSE.txt": "/react-three-example-image-tracking-cannon-physics/static/js/2.82bd93b6.chunk.js.LICENSE.txt",
-    "static/js/worker.ef4f8220.worker.js": "/react-three-example-image-tracking-cannon-physics/static/js/worker.ef4f8220.worker.js",
-    "static/js/worker.ef4f8220.worker.js.map": "/react-three-example-image-tracking-cannon-physics/static/js/worker.ef4f8220.worker.js.map",
+    "static/js/2.1ae175e7.chunk.js.LICENSE.txt": "/react-three-example-image-tracking-cannon-physics/static/js/2.1ae175e7.chunk.js.LICENSE.txt",
+    "static/js/worker.f6d546c9.worker.js": "/react-three-example-image-tracking-cannon-physics/static/js/worker.f6d546c9.worker.js",
+    "static/js/worker.f6d546c9.worker.js.map": "/react-three-example-image-tracking-cannon-physics/static/js/worker.f6d546c9.worker.js.map",
     "static/media/example-tracking-image.775f3d2f.zpt": "/react-three-example-image-tracking-cannon-physics/static/media/example-tracking-image.775f3d2f.zpt",
     "zcv/zcv.wasm": "/react-three-example-image-tracking-cannon-physics/zcv/zcv.wasm"
   },
   "entrypoints": [
     "static/js/runtime-main.47e67f65.js",
-    "static/js/2.82bd93b6.chunk.js",
+    "static/js/2.1ae175e7.chunk.js",
     "static/css/main.16285d4f.chunk.css",
     "static/js/main.5509d31d.chunk.js"
   ]
