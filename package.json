@@ -5,7 +5,7 @@
   "dependencies": {
     "@react-three/cannon": "^2.5.0",
     "@react-three/drei": "^7.0.6",
-    "@react-three/fiber": "^7.0.4",
+    "@react-three/fiber": "7.0.7",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
     "@testing-library/user-event": "^13.1.9",
@@ -14,7 +14,7 @@
     "@types/react": "^17.0.14",
     "@types/react-dom": "^17.0.9",
     "@types/three": "^0.130.0",
-    "@zappar/zappar-react-three-fiber": "^1.0.6",
+    "@zappar/zappar-react-three-fiber": "^1.0.7",
     "nice-color-palettes": "^3.0.0",
     "react": "^17.0.2",
     "react-app-rewired": "^2.1.8",
